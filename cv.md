@@ -7,3 +7,7 @@
    * git
    * c#
    * sql
+5. -//-
+6. no experience in development 
+7. BSTU
+8. english pre-intermediate (A2)
